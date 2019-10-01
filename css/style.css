@@ -1,0 +1,79 @@
+#menu{
+    background: #111;
+    color: #fff;
+    background-image: url("natureimage.jpg");
+
+}
+ul{
+    list-style: none;
+    text-align: center;
+    margin-top: 10px;
+}
+ul li{
+    display: inline-block;
+    margin: 5px;
+}
+ul li button{
+    border: 1px solid rgba(255,255,255,.7);
+    background: transparent;
+    padding: 2px 15px !important;
+    margin: 5px 15px;
+    transition: .3s;
+    text-shadow: none;
+}
+ul.ph{
+    float: left;
+    margin-right: 10px;
+}
+ul.hp{
+    float: right;
+    margin-right: 10px;
+}
+#here{
+    height: 100%;
+}
+.input-group .fa-search{
+    display: table-cell;
+    font-size: 50px;
+  }
+  #fakebox {
+    background: white;
+    border-radius: 22px;
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, .28);
+    box-sizing: border-box;
+    cursor: text;
+    font-size: 16px;
+    height: 44px;
+    margin: 0 auto;
+    max-width: 584px;
+    opacity: 1;
+    position: relative;
+    transition: none;
+    color: #111;
+}
+.section2.col-md-4{
+    max-width: 1800px;
+    margin: auto ;
+    padding: 0 20px;
+    display: inline-block;
+
+}
+
+#myInput {
+    box-sizing: border-box;
+    background-image: url('./images/searchicon.jpg');
+    background-repeat: no-repeat;
+    font-size: 16px;
+    padding: 14px 11px 12px 45px;
+    border: none;
+    border-bottom: 1px solid #000;
+    border-radius: 10px;
+    width: 100%;
+
+  }
+  .tt{
+margin-top: 120px;
+  }
+  #para{
+      float: right;
+  }
